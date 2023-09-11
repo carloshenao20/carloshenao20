@@ -23,8 +23,8 @@
 
 ### Previous:
 
-- Previous research topics #1
-- Previous research topics #2
+- Microfluidics
+- Biomaterials
 
 ### Current:
 
